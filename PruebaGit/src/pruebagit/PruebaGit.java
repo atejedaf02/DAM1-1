@@ -18,7 +18,7 @@ public class PruebaGit {
         // TODO code application logic here
         System.out.println("Hola");
         System.out.println("Cambio para probar");
-        System.out.println("otro cambio");
+        System.out.println("Otro cambio");
     }
     
 }
