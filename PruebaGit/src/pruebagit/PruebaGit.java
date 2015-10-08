@@ -19,6 +19,11 @@ public class PruebaGit {
         System.out.println("Hola");
         System.out.println("Cambio para probar");
         System.out.println("Otro cambio");
+        int suma, num1, num2;
+        num1=2;
+        num2=3;
+        suma=num1+num2;
+        System.out.println(suma);
     }
     
 }
