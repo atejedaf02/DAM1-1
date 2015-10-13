@@ -23,7 +23,8 @@ public class PruebaGit {
         num1=2;
         num2=3;
         suma=num1+num2;
-        System.out.println(suma);
+        System.out.println(suma);//hola moran soy álvaro
+
     }
     
 }
